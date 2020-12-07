@@ -1,0 +1,10 @@
+PushTopic pushTopic = new PushTopic();
+pushTopic.Name = 'TaskAssetRequest';
+pushTopic.Query = 'select id, subject, Type, Status  from task where Type = \'Asset Order\' and Status = \'In Progress\'';
+pushTopic.ApiVersion = 50.0;
+pushTopic.NotifyForOperationCreate = true;
+pushTopic.NotifyForOperationUpdate = true;
+pushTopic.NotifyForOperationUndelete = false;
+pushTopic.NotifyForOperationDelete = true;
+pushTopic.NotifyForFields = 'Referenced';
+insert pushTopic;

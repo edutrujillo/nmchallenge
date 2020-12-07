@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>Asset_Order</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Asset Order</shortDescription>
+        <value>Asset Order</value>
+    </labels>
+    <labels>
+        <fullName>Error_Delete</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Error_Delete</shortDescription>
+        <value>You can&apos;t perform this action when Asset Order task is in progress. Please delete the asset from Opportunity for cancel the Order</value>
+    </labels>
+    <labels>
+        <fullName>Closed_Won</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Closed_Won</shortDescription>
+        <value>Closed Won</value>
+    </labels>
+    <labels>
+        <fullName>Error_ClosedWon</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Error_ClosedWon</shortDescription>
+        <value>You can&apos;t pass to Closed Won if some Asset is not reserved yet</value>
+    </labels>
+    <labels>
+        <fullName>In_Progress</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>In Progress</shortDescription>
+        <value>In Progress</value>
+    </labels>
+    <labels>
+        <fullName>Quote_Accepted</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Quote Accepted</shortDescription>
+        <value>Quote Accepted</value>
+    </labels>
+</CustomLabels>

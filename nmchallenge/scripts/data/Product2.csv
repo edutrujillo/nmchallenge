@@ -1,0 +1,7 @@
+"Name","Family","ProductCode","Description","IsActive","ERP_ID__c"
+"Model 1","High Capacity","M1HC","Model 1 High Capacity","true","M1HC"
+"Model 2","High Capacity","M2HC","Model 2 High Capacity","true","M2HC"
+"Model 3","High Capacity","M3HC","Model 3 High Capacity","true","M3HC"
+"Model 1","Low Capacity","M1LC","Model 1 Low Capacity","true","M1LC"
+"Model 2","Low Capacity","M2LC","Model 2 Low Capacity","true","M2LC"
+"Model 3","Low Capacity","M3LC","Model 3 Low Capacity","true","M3LC"

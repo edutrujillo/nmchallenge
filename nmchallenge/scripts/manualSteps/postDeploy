@@ -1,6 +1,6 @@
 1.- Set STD value in PriceCatalog_Id__c of Standard Pricebook
 2.- Create "Installer" User
-2.- Assign Lightning Scheduler Perm Set to "Resource" users (Name it Installer)
+2.- Assign "Lightning Scheduler Resource" Perm Set to "Resource" users (Name it Installer)
 3.- Import Data
 	* Account (Insert, set RecordType Person Account)
 	* PriceBook2 (Insert)
@@ -11,7 +11,7 @@
 	* WorkType (Insert)
 	* WorkTypeGroup (Insert)
 	* ServiceTerritory (Insert)
-	* ServiceResource (Insert)
+	* ServiceResource (Insert, check username for real "Installer")
 	* SkillRequirement (Insert)
 	* WorkTypeGroupMember (Insert)
 	* ServiceTerritoryWorkType (Insert)
@@ -19,4 +19,5 @@
 	* ServiceTerritoryMember (Insert)
 4.- Execute Pushtopics.apex Apex Script
 5.- Activate Lightning Scheduler Settings, Event Management
+6.- Change users locale to Amsterdam
 

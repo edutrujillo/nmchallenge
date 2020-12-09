@@ -258,6 +258,11 @@
         <field>ServiceAppointment.is_time_to_send_reminder__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Task.Type</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <layoutAssignments>
         <layout>Asset-Asset Layout</layout>
     </layoutAssignments>

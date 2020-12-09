@@ -1,9 +1,9 @@
 {
   "orgName": "New Motion Scratch",
-  "edition": "Developer",
+  "edition": "Enterprise",
   "country": "US",
   "language": "en_US",
-  "features": ["LightningScheduler","SalesUser","PersonAccounts"],
+  "features": ["LightningScheduler","FieldService:10", "SalesUser","PersonAccounts"],
   "settings": {
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true

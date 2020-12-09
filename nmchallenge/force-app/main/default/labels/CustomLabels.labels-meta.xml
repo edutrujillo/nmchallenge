@@ -8,13 +8,6 @@
         <value>Asset Order</value>
     </labels>
     <labels>
-        <fullName>Error_Delete</fullName>
-        <language>en_US</language>
-        <protected>true</protected>
-        <shortDescription>Error_Delete</shortDescription>
-        <value>You can&apos;t perform this action when Asset Order task is in progress. Please delete the asset from Opportunity for cancel the Order</value>
-    </labels>
-    <labels>
         <fullName>Closed_Won</fullName>
         <language>en_US</language>
         <protected>true</protected>
@@ -29,6 +22,13 @@
         <value>You can&apos;t pass to Closed Won if some Asset is not reserved yet</value>
     </labels>
     <labels>
+        <fullName>Error_Delete</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Error_Delete</shortDescription>
+        <value>You can&apos;t perform this action when Asset Order task is in progress. Please delete the asset from Opportunity for cancel the Order</value>
+    </labels>
+    <labels>
         <fullName>In_Progress</fullName>
         <language>en_US</language>
         <protected>true</protected>
@@ -41,5 +41,41 @@
         <protected>true</protected>
         <shortDescription>Quote Accepted</shortDescription>
         <value>Quote Accepted</value>
+    </labels>
+    <labels>
+        <fullName>bodyEmailDutch</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>bodyEmailDutch</shortDescription>
+        <value>Over twee weken wordt uw nieuwe laadpunt geinstalleerd! Om alles soepel te laten verlopen hierbij 2 reminders:
+● Zorg dat er iemand aanwezig is bij aanvang van en tijdens de installatie
+● Zorg ervoor dat uw grond niet bevroren is.
+Met vriendelijke groet,
+Installatie team NewMotion</value>
+    </labels>
+    <labels>
+        <fullName>bodyEmailEng</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>bodyEmailEng</shortDescription>
+        <value>In two weeks your brand new charge point will be installed! To make sure that everything runs smoothly 2 reminders:
+● Please ensure that someone is present at the start of and during the installation.
+● If your ground is frozen we will not be able to do your installation
+Best regards,
+Installation team NewMotion</value>
+    </labels>
+    <labels>
+        <fullName>subjectEmailDutch</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>subjectEmailDutch</shortDescription>
+        <value>Uw installatiedatum is nabij</value>
+    </labels>
+    <labels>
+        <fullName>subjectEmailEng</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>subjectEmailEng</shortDescription>
+        <value>Your installation date is coming up!</value>
     </labels>
 </CustomLabels>

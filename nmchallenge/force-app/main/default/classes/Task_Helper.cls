@@ -7,7 +7,7 @@ public class Task_Helper {
       }
       List <Asset> assL = [select id, RequestId__c, Product2.ProductCode from Asset where Id in :lidAsset];
       for (Asset a: assL) {
-          mapAsset.put(a.id, a.RequestId__c+','+Product2.ProductCode);
+          mapAsset.put(a.id, a.RequestId__c+','+a.Product2.ProductCode);
       }
       for (Task t: taskL) {
           if (Label.Asset_Order.equals(t.type)){

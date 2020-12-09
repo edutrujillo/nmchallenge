@@ -1,0 +1,2 @@
+"ServiceTerritory:ServiceTerritory:Name","ServiceResource:ServiceResource:Name","TerritoryType","EffectiveStartDate","EffectiveEndDate","Street","City","State","PostalCode","Country","Latitude","Longitude","GeocodeAccuracy","OperatingHours:OperatingHours:Name"
+"Amsterdam","Installer","P","2020-12-01T20:00:00.000+0000","","Amsterdam","Amsterdam","Amsterdam","","Nederlands","52.321705","4.857565","Street","Nederlands"

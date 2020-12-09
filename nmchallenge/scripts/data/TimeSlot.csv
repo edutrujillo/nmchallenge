@@ -1,0 +1,8 @@
+"OperatingHours:OperatingHours:Name","DayOfWeek","Type","MaxAppointments","StartTime","EndTime"
+"Nederlands","Tuesday","Normal","1","08:00:00.000Z","20:00:00.000Z"
+"Nederlands","Wednesday","Normal","1","08:00:00.000Z","20:00:00.000Z"
+"Nederlands","Thursday","Normal","1","08:00:00.000Z","20:00:00.000Z"
+"Nederlands","Friday","Normal","1","08:00:00.000Z","20:00:00.000Z"
+"Nederlands","Saturday","Normal","1","08:00:00.000Z","20:00:00.000Z"
+"Nederlands","Sunday","Normal","1","00:15:00.000Z","01:15:00.000Z"
+"Nederlands","Monday","Normal","1","08:00:00.000Z","20:00:00.000Z"

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>is_customer_reminder__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>Checked if customer is notified two weeks before</description>
+    <externalId>false</externalId>
+    <label>is customer reminder</label>
+    <trackHistory>false</trackHistory>
+    <type>Checkbox</type>
+</CustomField>

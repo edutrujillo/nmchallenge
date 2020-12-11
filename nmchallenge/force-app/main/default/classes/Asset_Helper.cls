@@ -1,3 +1,7 @@
+/**
+ * @Author: Eduardo Trujillo
+ * 
+ */ 
 public class Asset_Helper {
 	public static void newAsset(Opportunity opp) {
         List<OpportunityLineItem> oliL = [select id, Product2.Name from OpportunityLineItem where OpportunityId = :opp.Id];
